@@ -1,0 +1,4 @@
+Additional things to work on:
+1. Calculate confidence interval
+2. Bootstrap | Create a database and bootstrap samples from the data. Then, save samples into a database. 
+3. Deploying | create an interactive website where users can manually input data
